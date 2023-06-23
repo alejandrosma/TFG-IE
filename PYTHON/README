@@ -1,1 +1,8 @@
+* MQTT_reader implementa el algoritmo basado en los resultados de la simulación para determinar los desplazamientos que debemos de aplicar al solenoide
+  * 2sensors: para la alienación en una dirección
+  * 4sensors: para la alineación de un extremo del solenoide
+  * calibration: código usado durante el método de calibración propuesto
 
+* I2C_reader: comunicación I2C directa entre el Arduino y PC
+
+* calibración.txt: datos obtenidos durante la calibración
