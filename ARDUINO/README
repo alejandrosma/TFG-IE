@@ -6,6 +6,7 @@ Conjunto de codigos para la adquisición de la señal de los sensores MLX90395.
     * WifiSimpleSender_1sensor: prueba para enviar las medidas de un sensor.
     * WifiSimpleSender_NR: implementa el método de alineación basado en Newton-Raphson.
     * WifiSimpleSender_simul: implementa el método de alineación basado en los resultados de simulación.
+    * WifiSimpleSender_calibration: código usado durante el método de alineación desarrollado.
 
 * TCA_scanner: código para ver disposivos conectados al multiplexor I2C TCA9548A.
 
