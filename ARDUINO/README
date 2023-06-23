@@ -1,3 +1,9 @@
 Conjunto de codigos para la adquisición de la señal de los sensores MLX90395.
 
+* mlx90395_TCA9548A son los códigos que permiten establecer comunicación I2C entre los sensores y el Arduino MKR 1010
+* WifiSimpleSender son los codigos completos que permiten la adquisición de señales y trasmitirlas al ordenador por protocolo MQTT.
+    * WifiSimpleSender_1sensor: prueba para enviar las medidas de un sensor
+    * WifiSimpleSender_NR: implementa el método de alineación basado en Newton-Raphson
+    * WifiSimpleSender_simul: implementa el método de alineación basado en los resultados de simulación.
+
 
